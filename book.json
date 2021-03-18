@@ -1,0 +1,86 @@
+{
+    "officeLogoUrl": "https://user-images.githubusercontent.com/6418354/62771043-1af00180-babe-11e9-8830-7904a358ccc0.png",
+    "links": [
+        {
+            "imageUrl": "https://png.pngtree.com/element_our/png/20181130/web-search-vector-icon-png_253149.jpg",
+            "name": "Portfolio",
+            "url": "https://p32929.github.io/"
+        },
+        {
+            "imageUrl": "https://lh3.googleusercontent.com/2voFzi7OYlzpkMcjtQjnXsJc9MYmqRtRgwtb1UGOGIJMrn_x9JHUNvtP5MEsJw4Uobo",
+            "name": "Facebook Page",
+            "url": "https://www.facebook.com/rich.it.ctg",
+            "alt": "fb://page/104754327537968"
+        },
+        {
+            "imageUrl": "https://lh3.googleusercontent.com/md422iqXDrN1jPagzMfFyDiwv-n_kSiL0Ly6_2G-VhofcnhQB0gAzM9NMjaH3drbHn8",
+            "name": "Facebook Group",
+            "url": "https://www.facebook.com/groups/518485748694084/"
+        },
+        {
+            "imageUrl": "https://image.winudf.com/v2/image/YWRtaW5faWNfbGF1bmNoZXJfcGxheV9zdG9yZS5wbmdfMTUwMjE2MzE4NzkwMw/icon.png?w=170&fakeurl=1",
+            "name": "Google Play Store",
+            "url": "https://play.google.com/store/apps/developer?id=Rich+IT"
+        },
+        {
+            "imageUrl": "https://lh3.googleusercontent.com/lMoItBgdPPVDJsNOVtP26EKHePkwBg-PkuY9NOrc-fumRtTFP4XhpUNk_22syN4Datc",
+            "name": "YouTube",
+            "url": "https://www.youtube.com/channel/UCvuo2MN9OieFwYfeNdSE5cg"
+        },
+        {
+            "imageUrl": "https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png",
+            "name": "Github",
+            "url": "https://github.com/rich-it/"
+        }
+    ],
+    "members": [
+        {
+            "imageUrl": "https://avatars1.githubusercontent.com/u/6418354?s=460&v=4",
+            "name": "Fayaz Bin Salam",
+            "designation": "Founder & CEO",
+            "contactInfo": "https://p32929.github.io/"
+        },
+        {
+            "imageUrl": "https://user-images.githubusercontent.com/6418354/62595278-92c3fd80-b8ff-11e9-89b1-8a4b0d3fbae4.jpg",
+            "name": "Arfatul Mowla Shuvo",
+            "designation": "Software Developer",
+            "contactInfo": "https://www.facebook.com/mowla.shuvo"
+        },
+        {
+            "imageUrl": "https://user-images.githubusercontent.com/6418354/62595290-a0798300-b8ff-11e9-9b78-ea9262f4bf94.JPG",
+            "name": "Plabon Dey",
+            "designation": "Software Developer",
+            "contactInfo": "https://www.facebook.com/plabon.shuvo1"
+        },
+        {
+            "imageUrl": "https://user-images.githubusercontent.com/6418354/62595321-bdae5180-b8ff-11e9-8b44-3378b8a88ce3.jpg",
+            "name": "Misbah Uddin",
+            "designation": "Software Developer",
+            "contactInfo": ""
+        },
+        {
+            "imageUrl": "https://user-images.githubusercontent.com/6418354/64313087-53ef9900-cfcc-11e9-9c7c-2e9d08dff83e.jpg",
+            "name": "Dany Barua",
+            "designation": "Software Developer",
+            "contactInfo": "https://www.facebook.com/dany.barua.391"
+        },
+        {
+            "imageUrl": "https://vignette.wikia.nocookie.net/kiminonawa/images/8/8f/Taki_Tachibana_16.png/revision/latest/scale-to-width-down/280?cb=20181114200034",
+            "name": "Md Rayhan",
+            "designation": "Software Developer",
+            "contactInfo": "https://www.facebook.com/mdrayhan9464"
+        },
+        {
+            "imageUrl": "https://avatars0.githubusercontent.com/u/32830917?s=460&v=4",
+            "name": "Md Razaul Munir",
+            "designation": "Software Developer",
+            "contactInfo": "https://www.facebook.com/profile.php?id=100004679028741"
+        },
+        {
+            "imageUrl": "https://i.ytimg.com/vi/l9iP60vCTYY/hqdefault.jpg",
+            "name": "Saikat Das",
+            "designation": "Software Developer",
+            "contactInfo": "https://www.facebook.com/profile.php?id=100041288010641"
+        }
+    ]
+}
